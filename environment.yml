@@ -1,0 +1,8 @@
+name: cddd
+
+channels:
+  - rdkit
+  - defaults
+
+dependencies:
+  - python=3.6
